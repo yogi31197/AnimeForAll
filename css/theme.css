@@ -1,0 +1,68 @@
+.toolbar{
+  height: 70px;  
+  margin-left: 20px;
+}
+
+body{
+    margin: 0%;
+}
+
+.toolbarmain{
+    height: 55px;
+}
+
+.menu{
+    color: #121212;
+    padding: 3px;
+    float: left;
+    margin-top: 16px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-style: normal;
+    margin-left: 10px;
+    font-weight: normal;
+    font-family: fantasy;
+}
+
+.logo{
+    float: left;
+    height: 40px;
+    width: 40px;
+    margin-top: 12px;
+    margin-right: 14px;
+}
+
+.searchform{
+    width: 200px;
+    background-color: #efefef;
+    margin-right: 20px;
+}
+
+.searchbox{
+   float: right; 
+   margin-top: 12px;
+   margin-left: 16px;
+}
+
+.searchinput{
+    width: 150px;
+    margin-left: 18px;
+    padding: 0%;
+    margin: 0%;
+    border: 0;
+    background-color: #efefef;
+    outline: none;
+    vertical-align: text-top;
+    font-size: 15px;
+    height: 40px;
+    margin-left: 20px;
+    font-family: fantasy;
+}
+
+.line{
+    color: indigo;
+    height: 2px;
+}
